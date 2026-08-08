@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0215-kth-largest-element-in-an-array) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ketankharwar18/DAA-ASSIGNMENT/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
